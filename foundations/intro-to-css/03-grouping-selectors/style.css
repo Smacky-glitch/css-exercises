@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+button {
+    font-size: size 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    padding: 10px 20px;
+    font-weight: bold;
+    boarder-radius: 5px;
+    cursor: pointer;
+}
+
+button:first-of-type {
+ background-color:black;
+ color:white;   
+}
+
+button:last-of-type {
+    background-color:yellow;
+    color:black;
+}
+
